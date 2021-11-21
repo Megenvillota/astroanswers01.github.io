@@ -1,0 +1,86 @@
+body {
+  font-family: monospace;
+  font-weight: bold;
+}
+
+h2 {
+  background-color: #444;
+  font-family: monospace;
+  color: #efefef;
+  padding: 20px 50px;
+}
+
+article {
+  background-color: #444;
+  font-family: monospace;
+  color: #efefef;
+  padding: 20px 50px;
+}
+
+footer {
+  background-color: #444;
+  color: #efefef;
+}
+
+.nav-link {
+  color: #444;
+}
+
+form > article {
+  background-color: #8e68df;
+  padding: 50px 100px;
+}
+
+#submit {
+  padding: 10px 0px;
+}
+
+#name {
+  width: 450px;
+  font-size: 1.3em;
+}
+
+#dob {
+  width: 200px;
+  font-size: 1.2em;
+}
+
+#time {
+  width: 200px;
+  font-size: 1.2em;
+}
+
+#ampm {
+  width: 65px;
+  font-size: 1.2em;
+}
+
+#location {
+  width: 400px;
+  font-size: 1.2em;
+}
+
+#choose {
+  width: 550px;
+  font-size: 1.2em;
+}
+
+#card {
+  width: 450px;
+  font-size: 1.2em;
+}
+
+#exp {
+  width: 200px;
+  font-size: 1.2em;
+}
+
+#cvv {
+  width: 150px;
+  font-size: 1.2em;
+}
+
+#yellow {
+  background-color: #2587c0;
+  padding: 50px 60px;
+}
